@@ -35,6 +35,13 @@ def go(args):
     
     # Fix the issue happened when testing the model
     idx = df['longitude'].between(-74.25, -73.50) & df['latitude'].between(40.5, 41.2)
+    
+    # Log the outliers
+    outliers = df[~idx]
+    if not outliers.empty:
+        logger.warning(f"Outliers found: \n{outliers}")
+
+    # Remove the outliers
     df = df[idx].copy()
 
     # Save the cleaned data
@@ -97,3 +104,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     go(args)
+
