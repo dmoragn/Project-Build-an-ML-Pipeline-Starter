@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-"""
-Download from W&B the raw dataset and apply some basic data cleaning, exporting the result to a new artifact
-"""
 import argparse
 import logging
 import wandb
@@ -13,7 +9,6 @@ logger = logging.getLogger()
 
 # DO NOT MODIFY
 def go(args):
-    
     logger.info('Starting wandb run.')
     run = wandb.init(
         project='nyc_airbnb',
@@ -21,6 +16,7 @@ def go(args):
         job_type="basic_cleaning" 
     )
     run.config.update(args)
+    
     # Download input artifact. This will also log that this script is using this
     # particular version of the artifact
     logger.info('Fetching raw dataset.')
@@ -56,7 +52,6 @@ def go(args):
     run.log_artifact(artifact)
 
 if __name__ == "__main__":
-
     parser = argparse.ArgumentParser(description="A very basic data cleaning")
   
     parser.add_argument(
