@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64b668494418488aa62ddbe8e8515e19/artifacts
+end_time: 1718335350928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64b668494418488aa62ddbe8e8515e19
+run_name: upbeat-snipe-822
+run_uuid: 64b668494418488aa62ddbe8e8515e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718335338741
+status: 3
+tags: []
+user_id: devin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/42b3a1210cc2482da5191bb8cbaa6e98/artifacts
+end_time: 1718334962964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42b3a1210cc2482da5191bb8cbaa6e98
+run_name: efficient-mole-783
+run_uuid: 42b3a1210cc2482da5191bb8cbaa6e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334948215
+status: 3
+tags: []
+user_id: devin

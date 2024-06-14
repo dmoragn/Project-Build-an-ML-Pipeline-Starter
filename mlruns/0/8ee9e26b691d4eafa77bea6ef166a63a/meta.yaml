@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8ee9e26b691d4eafa77bea6ef166a63a/artifacts
+end_time: 1718334985580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ee9e26b691d4eafa77bea6ef166a63a
+run_name: treasured-perch-83
+run_uuid: 8ee9e26b691d4eafa77bea6ef166a63a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334974357
+status: 4
+tags: []
+user_id: devin

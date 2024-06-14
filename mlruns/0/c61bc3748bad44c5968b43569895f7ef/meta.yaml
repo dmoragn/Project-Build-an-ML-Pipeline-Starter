@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c61bc3748bad44c5968b43569895f7ef/artifacts
+end_time: 1718334985766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c61bc3748bad44c5968b43569895f7ef
+run_name: caring-cod-147
+run_uuid: c61bc3748bad44c5968b43569895f7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334943117
+status: 4
+tags: []
+user_id: devin

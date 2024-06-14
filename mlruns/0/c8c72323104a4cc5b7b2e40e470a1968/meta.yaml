@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8c72323104a4cc5b7b2e40e470a1968/artifacts
+end_time: 1718334616248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8c72323104a4cc5b7b2e40e470a1968
+run_name: amusing-sponge-699
+run_uuid: c8c72323104a4cc5b7b2e40e470a1968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334576929
+status: 4
+tags: []
+user_id: devin

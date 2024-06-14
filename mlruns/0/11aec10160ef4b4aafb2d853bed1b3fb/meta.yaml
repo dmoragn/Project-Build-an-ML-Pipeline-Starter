@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/11aec10160ef4b4aafb2d853bed1b3fb/artifacts
+end_time: 1718334605609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11aec10160ef4b4aafb2d853bed1b3fb
+run_name: invincible-gnu-38
+run_uuid: 11aec10160ef4b4aafb2d853bed1b3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334594074
+status: 3
+tags: []
+user_id: devin

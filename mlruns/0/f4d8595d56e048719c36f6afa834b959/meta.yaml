@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4d8595d56e048719c36f6afa834b959/artifacts
+end_time: 1718334974337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4d8595d56e048719c36f6afa834b959
+run_name: intelligent-owl-581
+run_uuid: f4d8595d56e048719c36f6afa834b959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334962986
+status: 3
+tags: []
+user_id: devin
