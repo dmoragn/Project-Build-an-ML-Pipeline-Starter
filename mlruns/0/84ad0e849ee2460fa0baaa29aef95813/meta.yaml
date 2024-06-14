@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84ad0e849ee2460fa0baaa29aef95813/artifacts
+end_time: 1718329712879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84ad0e849ee2460fa0baaa29aef95813
+run_name: abrasive-mule-390
+run_uuid: 84ad0e849ee2460fa0baaa29aef95813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718329630455
+status: 4
+tags: []
+user_id: devin

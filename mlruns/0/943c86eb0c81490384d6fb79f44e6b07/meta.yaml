@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/943c86eb0c81490384d6fb79f44e6b07/artifacts
+end_time: 1718329712616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 943c86eb0c81490384d6fb79f44e6b07
+run_name: bold-cod-870
+run_uuid: 943c86eb0c81490384d6fb79f44e6b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718329633189
+status: 4
+tags: []
+user_id: devin

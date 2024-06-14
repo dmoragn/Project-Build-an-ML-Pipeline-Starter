@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ac3e525930b54958bed21dc071bea80a/artifacts
+end_time: 1718326703459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac3e525930b54958bed21dc071bea80a
+run_name: resilient-doe-629
+run_uuid: ac3e525930b54958bed21dc071bea80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718326702357
+status: 4
+tags: []
+user_id: devin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64fac116fc4e435792b7477d7f91ce9e/artifacts
+end_time: 1718330109681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64fac116fc4e435792b7477d7f91ce9e
+run_name: kindly-quail-41
+run_uuid: 64fac116fc4e435792b7477d7f91ce9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718330035819
+status: 3
+tags: []
+user_id: devin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ef1d56a43e49463a9ec96f7de444cf83/artifacts
+end_time: 1718327253714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef1d56a43e49463a9ec96f7de444cf83
+run_name: worried-whale-565
+run_uuid: ef1d56a43e49463a9ec96f7de444cf83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718327193197
+status: 4
+tags: []
+user_id: devin

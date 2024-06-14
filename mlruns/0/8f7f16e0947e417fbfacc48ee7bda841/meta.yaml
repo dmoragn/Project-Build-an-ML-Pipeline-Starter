@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f7f16e0947e417fbfacc48ee7bda841/artifacts
+end_time: 1718329466920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f7f16e0947e417fbfacc48ee7bda841
+run_name: gregarious-snipe-388
+run_uuid: 8f7f16e0947e417fbfacc48ee7bda841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718329448749
+status: 4
+tags: []
+user_id: devin

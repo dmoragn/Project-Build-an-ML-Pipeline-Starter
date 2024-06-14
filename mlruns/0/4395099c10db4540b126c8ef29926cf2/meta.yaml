@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4395099c10db4540b126c8ef29926cf2/artifacts
+end_time: 1718324159250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4395099c10db4540b126c8ef29926cf2
+run_name: thundering-croc-144
+run_uuid: 4395099c10db4540b126c8ef29926cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718324158175
+status: 4
+tags: []
+user_id: devin

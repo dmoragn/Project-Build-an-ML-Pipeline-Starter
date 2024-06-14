@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c63db69dd10544adbf7b42e06692c4ad/artifacts
+end_time: 1718328973865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c63db69dd10544adbf7b42e06692c4ad
+run_name: victorious-snipe-179
+run_uuid: c63db69dd10544adbf7b42e06692c4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718328837754
+status: 3
+tags: []
+user_id: devin

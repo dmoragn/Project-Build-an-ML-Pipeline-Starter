@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/28ac669719c746cc8fc328427640158c/artifacts
+end_time: 1718327014344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28ac669719c746cc8fc328427640158c
+run_name: smiling-carp-856
+run_uuid: 28ac669719c746cc8fc328427640158c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718327013252
+status: 4
+tags: []
+user_id: devin

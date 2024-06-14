@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc764e449c264cc295578f9b09b445ff/artifacts
+end_time: 1718330283800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc764e449c264cc295578f9b09b445ff
+run_name: bright-donkey-262
+run_uuid: cc764e449c264cc295578f9b09b445ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718330177681
+status: 3
+tags: []
+user_id: devin

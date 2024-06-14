@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/31f77fafaad64b9bb9c775161a65eac7/artifacts
+end_time: 1718324617595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31f77fafaad64b9bb9c775161a65eac7
+run_name: industrious-stag-383
+run_uuid: 31f77fafaad64b9bb9c775161a65eac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718324473378
+status: 4
+tags: []
+user_id: devin

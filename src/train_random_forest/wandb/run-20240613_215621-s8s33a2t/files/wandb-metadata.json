@@ -1,0 +1,57 @@
+{
+    "os": "macOS-14.2-x86_64-i386-64bit",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-14T01:56:21.938989",
+    "startedAt": "2024-06-14T01:56:21.059534",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/Users/devin/Project-Build-an-ML-Pipeline-Starter/multirun/2024-06-13/21-51-28/3/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/Users/devin/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/dmoragn/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": "dmoragn@wgu.edu",
+    "root": "/Users/devin/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Devins-Mac-mini.lan",
+    "username": "devin",
+    "executable": "/opt/miniconda3/envs/mlflow-e6ce73d264f1cb86d7cf06da23c9da6559dcf875/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 13.410812377929688
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

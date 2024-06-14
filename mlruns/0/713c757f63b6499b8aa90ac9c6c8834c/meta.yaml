@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/713c757f63b6499b8aa90ac9c6c8834c/artifacts
+end_time: 1718327536087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 713c757f63b6499b8aa90ac9c6c8834c
+run_name: funny-rook-720
+run_uuid: 713c757f63b6499b8aa90ac9c6c8834c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718327492036
+status: 3
+tags: []
+user_id: devin
