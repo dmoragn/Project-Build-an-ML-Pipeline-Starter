@@ -45,7 +45,10 @@ def test_proper_boundaries(data: pd.DataFrame):
     Test proper longitude and latitude boundaries for properties in and around NYC
     """
     idx = data['longitude'].between(-74.25, -73.50) & data['latitude'].between(40.5, 41.2)
-
+    outliers = data[~idx]
+    if not outliers.empty:
+        print("Outliers found:")
+        print(outliers)
     assert np.sum(~idx) == 0
 
 

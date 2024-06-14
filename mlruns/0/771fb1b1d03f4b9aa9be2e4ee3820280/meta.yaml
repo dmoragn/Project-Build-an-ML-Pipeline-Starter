@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/771fb1b1d03f4b9aa9be2e4ee3820280/artifacts
+end_time: 1718336333700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 771fb1b1d03f4b9aa9be2e4ee3820280
+run_name: smiling-moose-352
+run_uuid: 771fb1b1d03f4b9aa9be2e4ee3820280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718336321778
+status: 3
+tags: []
+user_id: devin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9faed2a98f8c490883f51123c2ec522f/artifacts
+end_time: 1718336357144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9faed2a98f8c490883f51123c2ec522f
+run_name: nimble-conch-997
+run_uuid: 9faed2a98f8c490883f51123c2ec522f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718336345875
+status: 4
+tags: []
+user_id: devin
