@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9aa700631e4a4c80a1221f8a12e1002b/artifacts
+end_time: 1718334180380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aa700631e4a4c80a1221f8a12e1002b
+run_name: selective-roo-624
+run_uuid: 9aa700631e4a4c80a1221f8a12e1002b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334169559
+status: 4
+tags: []
+user_id: devin

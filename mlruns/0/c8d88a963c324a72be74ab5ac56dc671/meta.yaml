@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8d88a963c324a72be74ab5ac56dc671/artifacts
+end_time: 1718334006526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8d88a963c324a72be74ab5ac56dc671
+run_name: spiffy-trout-915
+run_uuid: c8d88a963c324a72be74ab5ac56dc671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718333994536
+status: 3
+tags: []
+user_id: devin

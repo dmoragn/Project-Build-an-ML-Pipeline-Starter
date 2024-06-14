@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/44b6e5e2199a429bb4476c8baed86c9f/artifacts
+end_time: 1718333465957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44b6e5e2199a429bb4476c8baed86c9f
+run_name: stylish-crow-103
+run_uuid: 44b6e5e2199a429bb4476c8baed86c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718333450910
+status: 4
+tags: []
+user_id: devin

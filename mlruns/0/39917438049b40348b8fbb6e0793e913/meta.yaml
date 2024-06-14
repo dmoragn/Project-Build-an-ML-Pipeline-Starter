@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/39917438049b40348b8fbb6e0793e913/artifacts
+end_time: 1718333994514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39917438049b40348b8fbb6e0793e913
+run_name: orderly-bird-931
+run_uuid: 39917438049b40348b8fbb6e0793e913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718333983147
+status: 3
+tags: []
+user_id: devin

@@ -16,15 +16,15 @@ def go(args):
     
     logger.info('Starting wandb run.')
     run = wandb.init(
-        project = 'nyc_airbnb',
-        group = 'basic_cleaning',
+        project='nyc_airbnb',
+        group='basic_cleaning',
         job_type="basic_cleaning" 
     )
     run.config.update(args)
     # Download input artifact. This will also log that this script is using this
     # particular version of the artifact
     logger.info('Fetching raw dataset.')
-    local_path = wandb.use_artifact('sample.csv:latest').file()
+    local_path = wandb.use_artifact(args.input_artifact).file()
     df = pd.read_csv(local_path)
     
     # EDA with arguments passed into the step
@@ -32,22 +32,22 @@ def go(args):
     idx = df['price'].between(float(args.min_price), float(args.max_price))
     df = df[idx].copy()
     df['last_review'] = pd.to_datetime(df['last_review'])
-    # TODO: add code to fix the issue happened when testing the model
     
+    # Fix the issue happened when testing the model
+    idx = df['longitude'].between(-74.25, -73.50) & df['latitude'].between(40.5, 41.2)
+    df = df[idx].copy()
 
     # Save the cleaned data
     logger.info('Saving and exporting cleaned data.')
     df.to_csv('clean_sample.csv', index=False)
     artifact = wandb.Artifact(
         args.output_artifact,
-        type = args.output_type,
-        description = args.output_description
+        type=args.output_type,
+        description=args.output_description
     )
     artifact.add_file('clean_sample.csv')
     run.log_artifact(artifact)
-    
-# TODO: In the code below, fill in the data type for each argumemt. The data type should be str, float or int. 
-# TODO: In the code below, fill in a description for each argument. The description should be a string.
+
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="A very basic data cleaning")
@@ -96,5 +96,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    # You need to define the `go` function with your logic here
     go(args)

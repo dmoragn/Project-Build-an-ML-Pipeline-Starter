@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/93aeebb3d4844cada674b1058af4671d/artifacts
+end_time: 1718334017855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93aeebb3d4844cada674b1058af4671d
+run_name: grandiose-lamb-893
+run_uuid: 93aeebb3d4844cada674b1058af4671d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334006546
+status: 4
+tags: []
+user_id: devin

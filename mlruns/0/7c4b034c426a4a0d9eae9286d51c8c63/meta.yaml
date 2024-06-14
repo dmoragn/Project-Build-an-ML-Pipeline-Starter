@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c4b034c426a4a0d9eae9286d51c8c63/artifacts
+end_time: 1718334169537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c4b034c426a4a0d9eae9286d51c8c63
+run_name: marvelous-mole-22
+run_uuid: 7c4b034c426a4a0d9eae9286d51c8c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718334157626
+status: 3
+tags: []
+user_id: devin

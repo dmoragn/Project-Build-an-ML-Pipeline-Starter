@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/devin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/509dfca58e2e4bd38c6c1f2a2c64f778/artifacts
+end_time: 1718333466172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 509dfca58e2e4bd38c6c1f2a2c64f778
+run_name: debonair-stork-775
+run_uuid: 509dfca58e2e4bd38c6c1f2a2c64f778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718333369514
+status: 4
+tags: []
+user_id: devin
